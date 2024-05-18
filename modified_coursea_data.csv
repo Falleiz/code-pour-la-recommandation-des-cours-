@@ -1,0 +1,892 @@
+Unnamed: 0,course_title,course_organization,course_difficulty,course_students_enrolled,category
+134,isc systems security certified practitioner sscp,isc,beginner,5300.0,other
+743,a crash course in causality  inferring causal effects from observational data,university of pennsylvania,intermediate,17000.0,data
+874,a crash course in data science,johns hopkins university,mixed,130000.0,data
+413,a law students toolkit,yale university,mixed,91000.0,law
+635,a life of happiness and fulfillment,indian school of business,mixed,320000.0,other
+661,adhd everyday strategies for elementary students,university at buffalo,beginner,39000.0,other
+54,ai for everyone,deeplearningai,beginner,350000.0,ai
+488,ai for medical treatment,deeplearningai,intermediate,2400.0,ai
+58,ai foundations for everyone,ibm,beginner,61000.0,ai
+129,ai for medical diagnosis,deeplearningai,intermediate,12000.0,ai
+283,ai for medical prognosis,deeplearningai,intermediate,4000.0,ai
+35,ai for medicine,deeplearningai,intermediate,13000.0,ai
+43,aws fundamentals,amazon web services,beginner,130000.0,other
+631,aws fundamentals addressing security risk,amazon web services,beginner,11000.0,other
+861,aws fundamentals building serverless applications,amazon web services,beginner,27000.0,other
+281,aws fundamentals going cloudnative,amazon web services,beginner,110000.0,cloud
+828,aws fundamentals migrating to the cloud,amazon web services,intermediate,13000.0,cloud
+819,aboriginal worldviews and education,university of toronto,mixed,6600.0,other
+63,academic english writing,university of california irvine,beginner,540000.0,english
+142,accelerated computer science fundamentals,university of illinois at urbanachampaign,intermediate,22000.0,science
+612,access controls,isc,beginner,2900.0,other
+604,accounting analytics,university of pennsylvania,mixed,80000.0,analytics
+727,accounting for decision making,university of michigan,intermediate,9900.0,other
+51,achieving personal and professional success,university of pennsylvania,beginner,110000.0,other
+838,actualizacin en el manejo del paciente con diabetes mellitus tipo ,universidad nacional autnoma de mxico,mixed,23000.0,other
+330,addiction treatment clinical skills for healthcare providers,yale university,beginner,9200.0,health
+247,advanced business analytics,university of colorado boulder,intermediate,78000.0,business
+157,advanced data science with ibm,ibm,advanced,320000.0,data
+103,advanced machine learning,national research university higher school of economics,advanced,190000.0,machine
+324,advanced machine learning with tensorflow on google cloud platform,google cloud,advanced,35000.0,cloud
+266,advanced valuation and strategy  ma private equity and venture capital,erasmus university rotterdam,advanced,29000.0,strategy
+825,advertising and society,duke university,mixed,14000.0,other
+853,age of cathedrals,yale university,beginner,21000.0,other
+75,agile development,university of virginia,beginner,94000.0,development
+482,agile meets design thinking,university of virginia,beginner,69000.0,design
+212,agile with atlassian jira,atlassian,beginner,40000.0,other
+846,agile  scrum      ,scrumtrek,beginner,12000.0,other
+561,algorithmic toolbox,university of california san diego,intermediate,220000.0,other
+78,algorithms,stanford university,intermediate,150000.0,other
+242,algorithms for battery management systems,university of colorado system,intermediate,14000.0,management
+322,american contract law i,yale university,beginner,18000.0,law
+159,an introduction to american law,university of pennsylvania,beginner,23000.0,law
+265,an introduction to consumer neuroscience  neuromarketing,copenhagen business school,beginner,69000.0,science
+151,an introduction to programming the internet of things iot,university of california irvine,beginner,270000.0,programming
+752,analysing numeric and digital literacies,macquarie university,beginner,7900.0,digital
+119,anatomy,university of michigan,beginner,30000.0,other
+302,anatomy of the chest abdomen and pelvis,yale university,intermediate,36000.0,other
+508,anatomy musculoskeletal and integumentary systems,university of michigan,beginner,20000.0,other
+797,ancient philosophy aristotle and his successors,university of pennsylvania,mixed,8100.0,other
+390,android app development,vanderbilt university,beginner,120000.0,development
+201,animal behaviour and welfare,the university of edinburgh,mixed,71000.0,other
+663,antibiotic stewardship,stanford university,advanced,11000.0,other
+514,anticorrupcin introduccin a conceptos y perspectiva prctica,universidad nacional autnoma de mxico,beginner,11000.0,other
+799,antimicrobial resistance  theory and methods,technical university of denmark dtu,intermediate,63000.0,other
+8,applied data science,ibm,beginner,220000.0,data
+637,applied data science capstone,ibm,intermediate,42000.0,data
+26,applied data science with python,university of michigan,intermediate,480000.0,data
+630,applied machine learning in python,university of michigan,intermediate,150000.0,python
+491,applied plotting charting  data representation in python,university of michigan,intermediate,97000.0,data
+888,aprende a programar con python,universidad austral,beginner,6600.0,python
+512,aprender,universidad nacional autnoma de mxico,mixed,200000.0,other
+551,aprendiendo a aprender poderosas herramientas mentales con las que podrs dominar temas difciles learning how to learn,university of california san diego,beginner,180000.0,other
+437,architecting with google cloud platform ,google cloud,intermediate,4200.0,cloud
+10,architecting with google compute engine,google cloud,intermediate,310000.0,other
+573,architecting with google kubernetes engine ,google cloud,beginner,3900.0,other
+56,arizona state university tesol,arizona state university,beginner,150000.0,other
+479,art  activity interactive strategies for engaging with art,the museum of modern art,mixed,79000.0,other
+452,art  ideas teaching with themes,the museum of modern art,mixed,31000.0,other
+651,arts and culture strategy,national arts strategies,mixed,15000.0,strategy
+326,arts and heritage management,universit bocconi,mixed,15000.0,management
+877,aspectos bsicos de la planificacin y la gestin de proyectos,university of virginia,beginner,10000.0,other
+753,astrobiology and the search for extraterrestrial life,the university of edinburgh,mixed,66000.0,other
+782,atencin primaria en salud el desafo de las enfermedades no transmisibles,pontificia universidad catlica de chile,intermediate,33000.0,other
+210,autism spectrum disorder,university of california davis,mixed,56000.0,other
+885,autodesk cadcam for manufacturing,autodesk,intermediate,7300.0,other
+468,autodesk cadcamcae for mechanical engineering,autodesk,intermediate,9200.0,engineering
+702,autodesk certified professional autocad for design and drafting exam prep,autodesk,advanced,22000.0,design
+590,autodesk certified professional revit for architectural design exam prep,autodesk,advanced,9700.0,design
+816,bim fundamentals for engineers,national taiwan university,beginner,13000.0,other
+642,basic statistics,university of amsterdam,beginner,180000.0,statistics
+493,bayesian statistics from concept to data analysis,university of california santa cruz,intermediate,91000.0,data
+602,bayesian statistics techniques and models,university of california santa cruz,intermediate,29000.0,statistics
+106,become a cbrs certified professional installer by google,google  spectrum sharing,mixed,210000.0,other
+294,become a journalist report the news,michigan state university,beginner,28000.0,other
+809,become a sustainable business change agent,university of colorado system,intermediate,4200.0,business
+776,becoming a sports agent,case western reserve university,beginner,6500.0,other
+672,becoming a changemaker introduction to social innovation,university of cape town,beginner,61000.0,social
+269,behavioral finance,duke university,mixed,55000.0,finance
+456,beyond the sustainable development goals sdgs addressing sustainability and development,university of michigan,mixed,2300.0,development
+498,big data  introduccin al uso prctico de datos masivos,universitat autnoma de barcelona,beginner,8800.0,data
+687,biohacking your brains health,emory university,beginner,35000.0,health
+565,biology meets programming bioinformatics for beginners,university of california san diego,beginner,88000.0,programming
+131,biostatistics in public health,johns hopkins university,beginner,14000.0,health
+751,blended language learning design and practice for teachers,university of colorado boulder,intermediate,1900.0,design
+251,blockchain,university at buffalo,intermediate,68000.0,ai
+143,blockchain revolution,insead,beginner,21000.0,ai
+462,blockchain revolution in financial services,insead,beginner,1600.0,financial
+719,blockchain foundations and use cases,consensys academy,beginner,31000.0,ai
+645,boosting creativity for innovation,hec paris,beginner,9500.0,other
+72,brand management aligning business brand and behaviour,london business school,beginner,57000.0,management
+238,branding the creative journey,ie business school,beginner,26000.0,other
+486,budgeting and scheduling projects,university of california irvine,mixed,84000.0,other
+688,bugs  insecthuman interactions,university of alberta,beginner,15000.0,other
+395,build a modern computer from first principles from nand to tetris projectcentered course,hebrew university of jerusalem,mixed,95000.0,other
+653,building batch data pipelines on gcp,google cloud,intermediate,7300.0,data
+670,building conversational experiences with dialogflow,google cloud,beginner,22000.0,other
+884,building resilient streaming analytics systems on gcp,google cloud,intermediate,5800.0,analytics
+610,building scalable java microservices with spring boot and spring cloud,google cloud,intermediate,24000.0,cloud
+824,building your leadership skills,hec paris,mixed,67000.0,leadership
+17,business analytics,university of pennsylvania,beginner,280000.0,business
+611,business english,arizona state university,intermediate,38000.0,business
+168,business english communication skills,university of washington,intermediate,120000.0,business
+738,business english networking,university of washington,intermediate,77000.0,business
+7,business foundations,university of pennsylvania,beginner,510000.0,business
+410,business model innovation,hec paris,mixed,13000.0,business
+96,business statistics and analysis,rice university,beginner,110000.0,business
+126,business strategies for a better world,university of pennsylvania,beginner,24000.0,business
+104,business strategy,university of virginia,beginner,89000.0,business
+233,business technology management,indian school of business,beginner,67000.0,management
+478,business transformation with google cloud,google cloud,beginner,10000.0,business
+539,business writing,university of colorado boulder,beginner,48000.0,business
+23,business and financial modeling,university of pennsylvania,beginner,160000.0,business
+662,c for everyone programming fundamentals,university of california santa cruz,beginner,31000.0,programming
+222,c programming for unity game development,university of colorado system,beginner,36000.0,development
+21,covid contact tracing,johns hopkins university,beginner,220000.0,other
+450,covid what you need to know cme eligible,osmosis,beginner,32000.0,other
+525,cameras exposure and photography,michigan state university,mixed,130000.0,other
+107,camino a la excelencia en gestin de proyectos,pontificia universidad catlica de chile,beginner,340000.0,other
+536,capstone retrieving processing and visualizing data with python,university of michigan,mixed,82000.0,data
+44,career success,university of california irvine,beginner,790000.0,other
+736,challenging forensic science how science should speak to court,university of lausanne,beginner,31000.0,science
+718,chemicals and health,johns hopkins university,beginner,23000.0,health
+726,chicken behaviour and welfare,the university of edinburgh,mixed,19000.0,other
+161,child nutrition and cooking,stanford university,beginner,30000.0,other
+737,chinese for hsk ,peking university,beginner,22000.0,other
+95,cisco networking basics,cisco,beginner,57000.0,other
+848,classical sociological theory,university of amsterdam,mixed,51000.0,other
+197,claves de la direccin de empresas,iese business school,beginner,51000.0,other
+457,climate change and health from science to action,yale university,beginner,4800.0,science
+275,clinical terminology for international and us students,university of pittsburgh,beginner,32000.0,other
+349,cloud computing,university of illinois at urbanachampaign,intermediate,110000.0,cloud
+777,cloud computing basics cloud ,learnquest,beginner,37000.0,cloud
+9,cloud engineering with google cloud,google cloud,intermediate,310000.0,cloud
+276,coaching skills for managers,university of california davis,intermediate,37000.0,other
+655,code yourself an introduction to programming,the university of edinburgh,beginner,120000.0,programming
+709,communication skills for engineers,rice university,beginner,15000.0,other
+305,communication strategies for a virtual age,university of toronto,beginner,43000.0,other
+890,compassionate leadership through service learning with jane goodall and roots  shoots,university of colorado boulder,beginner,6400.0,leadership
+406,competencias digitales herramientas de ofimtica microsoft word excel power point,universitat autnoma de barcelona,beginner,43000.0,digital
+474,competitive strategy and organization design,ludwigmaximiliansuniversitt mnchen lmu,intermediate,350000.0,design
+391,computational social science,university of california davis,beginner,5800.0,science
+221,computational thinking for problem solving,university of pennsylvania,beginner,33000.0,other
+621,computer security and systems management,university of colorado system,beginner,27000.0,management
+439,conflict management,university of california irvine,beginner,66000.0,management
+728,construction cost estimating and cost control,columbia university,beginner,19000.0,other
+48,construction management,columbia university,beginner,61000.0,management
+290,construction project management,columbia university,beginner,43000.0,management
+794,construction scheduling,columbia university,beginner,15000.0,other
+300,contabilidad para no contadores,universidad nacional autnoma de mxico,beginner,220000.0,other
+273,content strategy for professionals,northwestern university,beginner,27000.0,strategy
+448,continuous delivery  devops,university of virginia,beginner,26000.0,other
+815,control of mobile robots,georgia institute of technology,mixed,49000.0,other
+207,convolutional neural networks,deeplearningai,intermediate,240000.0,other
+358,convolutional neural networks in tensorflow,deeplearningai,intermediate,46000.0,other
+725,corporate  commercial law i contracts  employment law,university of illinois at urbanachampaign,intermediate,10000.0,law
+458,corporate finance essentials,iese business school,mixed,56000.0,finance
+714,corporate strategy,ucl school of management,beginner,7800.0,strategy
+301,corporate sustainability understanding and seizing the strategic opportunity,universit bocconi,mixed,10000.0,ai
+691,correccin estilo y  variaciones de la lengua espaola,universitat autnoma de barcelona,beginner,75000.0,other
+854,cost and economics in pricing strategy,university of virginia,beginner,15000.0,strategy
+544,costos para los negocios,universidad de chile,intermediate,43000.0,other
+179,crash course on python,google,beginner,81000.0,python
+463,creative problem solving,university of minnesota,mixed,140000.0,other
+59,creative writing,wesleyan university,beginner,140000.0,other
+371,creative writing the craft of plot,wesleyan university,mixed,120000.0,other
+793,creatividad diseo e innovacin tcnicas y herramientas,arizona state university,beginner,150000.0,other
+678,cuidado de heridas en el mbito hospitalario,universidad nacional autnoma de mxico,intermediate,26000.0,other
+730,cuidados y procedimientos generales en la atencin del recin nacido,universidad de chile,intermediate,22000.0,other
+248,culturedriven team building,university of pennsylvania,beginner,17000.0,other
+820,curanderismo traditional healing using plants,university of new mexico,beginner,5500.0,other
+566,customer segmentation and prospecting,northwestern university,beginner,18000.0,other
+372,cybersecurity,university of maryland college park,intermediate,99000.0,other
+821,cybersecurity and its ten domains,university system of georgia,beginner,140000.0,ai
+497,cybersecurity for business,university of colorado system,beginner,23000.0,business
+800,cmo hablar bien en pblico,universitat autnoma de barcelona,beginner,55000.0,other
+764,dairy production and management,the pennsylvania state university,mixed,23000.0,management
+812,data analysis and interpretation,wesleyan university,beginner,100000.0,data
+39,data analysis and presentation skills the pwc approach,pwc,beginner,220000.0,data
+277,data analysis with python,ibm,beginner,110000.0,data
+605,data analytics for lean six sigma,university of amsterdam,beginner,24000.0,data
+783,data collection and processing with python,university of michigan,intermediate,19000.0,data
+679,data engineering on google cloud platform ,google cloud,intermediate,3000.0,data
+22,data engineering with google cloud,google cloud,intermediate,120000.0,data
+24,data engineering big data and machine learning on gcp,google cloud,intermediate,120000.0,data
+383,data management for clinical research,vanderbilt university,beginner,42000.0,data
+434,data mining,university of illinois at urbanachampaign,intermediate,140000.0,data
+13,data science,johns hopkins university,beginner,830000.0,data
+399,data science math skills,duke university,beginner,140000.0,data
+198,data science methodology,ibm,beginner,89000.0,data
+15,data science foundations using r,johns hopkins university,beginner,740000.0,data
+148,data science statistics and machine learning,johns hopkins university,intermediate,210000.0,data
+686,data visualization and communication with tableau,duke university,mixed,130000.0,data
+804,data visualization with advanced excel,pwc,beginner,60000.0,data
+420,data visualization with python,ibm,intermediate,66000.0,data
+70,data visualization with tableau,university of california davis,beginner,96000.0,data
+288,data warehousing for business intelligence,university of colorado system,advanced,140000.0,data
+871,data and health indicators in public health practice,johns hopkins university,beginner,18000.0,data
+376,datadriven decision making,pwc,beginner,120000.0,data
+263,databases and sql for data science,ibm,beginner,110000.0,data
+519,demystifying mindfulness,universiteit leiden,beginner,150000.0,other
+813,decisionmaking and scenarios,university of pennsylvania,mixed,31000.0,other
+5,deep learning,deeplearningai,intermediate,690000.0,other
+599,democracia y decisiones pblicas introduccin al anlisis de polticas pblicas,universitat autnoma de barcelona,beginner,44000.0,other
+806,dentistry ,university of michigan,beginner,4500.0,other
+627,dermatology trip to skin,novosibirsk state university ,beginner,8200.0,other
+100,design thinking for innovation,university of virginia,beginner,240000.0,design
+674,design thinking for the greater good innovation in the social sector,university of virginia,beginner,17000.0,design
+139,design and interpretation of clinical trials,johns hopkins university,mixed,67000.0,design
+522,design and make infographics projectcentered course,michigan state university,mixed,97000.0,design
+430,designled strategy design thinking for business strategy and entrepreneurship,the university of sydney,intermediate,19000.0,business
+338,developing apis with google clouds apigee api platform,google cloud,intermediate,16000.0,cloud
+18,developing applications with google cloud platform,google cloud,intermediate,300000.0,cloud
+644,developing applications with google cloud platform ,google cloud,intermediate,4000.0,cloud
+720,developing industrial internet of things,university of colorado boulder,intermediate,8000.0,other
+756,developing your musicianship,berklee college of music,mixed,41000.0,other
+205,developing your musicianship,berklee college of music,beginner,54000.0,other
+397,devenir entrepreneur du changement,ticket for change,mixed,54000.0,other
+239,digital advertising strategy,university of colorado boulder,beginner,9000.0,strategy
+855,digital business models,lund university,beginner,21000.0,business
+237,digital manufacturing  design technology,university at buffalo,beginner,37000.0,design
+28,digital marketing,university of illinois at urbanachampaign,beginner,380000.0,marketing
+852,digital media and marketing strategies,university of illinois at urbanachampaign,mixed,57000.0,marketing
+53,digital product management,university of virginia,beginner,140000.0,management
+381,digital product management modern fundamentals,university of virginia,beginner,58000.0,management
+490,dino  dinosaur paleobiology,university of alberta,beginner,35000.0,other
+697,discrete optimization,the university of melbourne,intermediate,40000.0,other
+675,diseo instruccional aprendizaje activo y pedagoga digital,tecnolgico de monterrey,beginner,4000.0,digital
+711,diseo y creacin de un emprendimiento social,pontificia universidad catlica de chile,beginner,21000.0,social
+378,divide and conquer sorting and searching and randomized algorithms,stanford university,intermediate,130000.0,other
+392,dog emotion and cognition,duke university,mixed,150000.0,other
+624,driving business towards the sustainable development goals,erasmus university rotterdam,beginner,5600.0,business
+487,drug commercialization,university of california san diego,beginner,17000.0,other
+342,drug discovery,university of california san diego,beginner,39000.0,other
+166,dynamic public speaking,university of washington,beginner,110000.0,other
+832,emt foundations,university of colorado system,beginner,7100.0,other
+494,ecology ecosystem dynamics and conservation,american museum of natural history,intermediate,18000.0,other
+641,econometrics methods and applications,erasmus university rotterdam,mixed,110000.0,other
+229,economics of money and banking,columbia university,mixed,83000.0,other
+707,ecosystem services a method for sustainable development,university of geneva,intermediate,16000.0,development
+773,effective compliance programs,university of pennsylvania,mixed,3400.0,other
+636,egiptologa egyptology,universitat autnoma de barcelona,beginner,46000.0,other
+789,el abogado del futuro legaltech y la transformacin digital del derecho,universidad austral,beginner,1500.0,digital
+564,elastic google cloud infrastructure scaling and automation,google cloud,intermediate,57000.0,cloud
+870,electric industry operations and markets,duke university,beginner,12000.0,other
+122,electronic music production,berklee college of music,intermediate,110000.0,other
+733,emerging technologies from smartphones to iot to big data,yonsei university,beginner,17000.0,data
+267,energy production distribution  safety,university at buffalo,beginner,37000.0,other
+461,engineering health introduction to yoga and physiology,new york university,beginner,14000.0,health
+560,engineering project management initiating and planning,rice university,beginner,23000.0,management
+613,english composition i,duke university,beginner,200000.0,english
+225,english for business and entrepreneurship,university of pennsylvania,beginner,230000.0,business
+175,english for career development,university of pennsylvania,mixed,760000.0,development
+303,english for journalism,university of pennsylvania,mixed,130000.0,english
+547,english for research publication purposes,moscow institute of physics and technology,intermediate,42000.0,english
+598,english for science technology engineering and mathematics,university of pennsylvania,beginner,110000.0,science
+770,enterprise architecture,peter the great st petersburg polytechnic university,beginner,2400.0,other
+292,entrepreneurial finance strategy and innovation,duke university,intermediate,7900.0,strategy
+33,entrepreneurship,university of pennsylvania,beginner,110000.0,other
+246,entrepreneurship  developing the opportunity,university of pennsylvania,mixed,86000.0,other
+496,entrepreneurship  launching your startup,university of pennsylvania,mixed,38000.0,other
+704,entrepreneurship  growth strategies,university of pennsylvania,beginner,31000.0,other
+623,entrepreneurship strategy from ideation to exit,hec paris,beginner,20000.0,strategy
+502,entrepreneurship launching an innovative business,university of maryland college park,beginner,69000.0,business
+527,epidemics  the dynamics of infectious diseases,the pennsylvania state university,mixed,45000.0,other
+570,epidemics pandemics and outbreaks,university of pittsburgh,mixed,23000.0,other
+426,epidemiology for public health,imperial college london,beginner,6400.0,health
+60,epidemiology in public health practice,johns hopkins university,beginner,31000.0,health
+351,epidemiology the basic science of public health,the university of north carolina at chapel hill,mixed,130000.0,science
+708,epigenetic control of gene expression,the university of melbourne,mixed,35000.0,other
+444,equine welfare and management,university of california davis,beginner,7200.0,management
+693,esports,university of california irvine,beginner,1800.0,other
+454,essential epidemiologic tools for public health practice,johns hopkins university,beginner,14000.0,health
+446,essential google cloud infrastructure core services,google cloud,intermediate,68000.0,cloud
+347,essential google cloud infrastructure foundation,google cloud,intermediate,83000.0,cloud
+314,essentials in clinical simulations across the health professions,the george washington university,intermediate,4100.0,health
+436,essentials of corporate finance,the university of melbourne,intermediate,54000.0,finance
+319,essentials of global health,yale university,mixed,31000.0,health
+847,estadstica y probabilidad,universidad nacional autnoma de mxico,beginner,27000.0,other
+881,evaluacin educativa,universidad nacional autnoma de mxico,beginner,13000.0,other
+256,everyday excel part ,university of colorado boulder,beginner,11000.0,other
+278,everyday parenting the abcs of child rearing,yale university,beginner,86000.0,other
+11,excel skills for business,macquarie university,beginner,240000.0,business
+591,excel skills for business advanced,macquarie university,intermediate,39000.0,business
+92,excel skills for business essentials,macquarie university,beginner,200000.0,business
+218,excel skills for business intermediate i,macquarie university,intermediate,76000.0,business
+419,excel skills for business intermediate ii,macquarie university,intermediate,39000.0,business
+38,excel to mysql analytic techniques for business,duke university,beginner,490000.0,business
+124,excelvba for creative problem solving,university of colorado boulder,beginner,56000.0,other
+418,excelvba for creative problem solving part ,university of colorado boulder,beginner,54000.0,other
+137,executive data science,johns hopkins university,beginner,170000.0,data
+880,explorando la energa sustentable,pontificia universidad catlica de chile,beginner,28000.0,other
+99,fashion as design,the museum of modern art,beginner,180000.0,design
+509,feminism and social justice,university of california santa cruz,beginner,18000.0,social
+442,fintech law and policy,duke university,beginner,9700.0,law
+531,fintech finance industry transformation and regulation,the hong kong university of science and technology,beginner,13000.0,finance
+453,fintech foundations payments and regulations,university of pennsylvania,beginner,12000.0,other
+16,finance  quantitative modeling for analysts,university of pennsylvania,beginner,260000.0,finance
+257,finance for nonfinance professionals,rice university,beginner,69000.0,finance
+778,finance for nonfinancial managers,emory university,intermediate,12000.0,financial
+85,financial accounting fundamentals,university of virginia,beginner,65000.0,financial
+396,financial acumen for nonfinancial managers,university of pennsylvania,beginner,10000.0,financial
+158,financial engineering and risk management part i,columbia university,mixed,100000.0,management
+149,financial management,university of illinois at urbanachampaign,intermediate,76000.0,management
+14,financial markets,yale university,beginner,470000.0,financial
+259,financial markets and investment strategy,indian school of business,beginner,60000.0,strategy
+682,financial reporting,university of illinois at urbanachampaign,intermediate,12000.0,financial
+356,financial technology fintech innovations,university of michigan,beginner,6500.0,financial
+382,financing and investing in infrastructure,universit bocconi,mixed,24000.0,other
+366,finanzas corporativas,universidad nacional autnoma de mxico,intermediate,30000.0,other
+552,finanzas personales,universidad nacional autnoma de mxico,mixed,310000.0,other
+109,finding purpose and meaning in life living for what matters most,university of michigan,beginner,36000.0,other
+66,fintech foundations  applications of financial technology,university of pennsylvania,beginner,20000.0,financial
+113,first step korean,yonsei university,beginner,400000.0,other
+102,food  beverage management,universit bocconi,mixed,57000.0,management
+174,forensic accounting and fraud examination,west virginia university,mixed,42000.0,other
+851,formulacin y evaluacin de proyectos complejos,universidad de los andes,intermediate,4400.0,other
+337,foundational finance for strategic decision making,university of michigan,beginner,14000.0,finance
+721,foundations of business strategy,university of virginia,beginner,63000.0,business
+775,foundations of everyday leadership,university of illinois at urbanachampaign,mixed,62000.0,leadership
+313,foundations of global health,johns hopkins university,beginner,31000.0,health
+209,foundations of management,iese business school,beginner,64000.0,management
+569,foundations of marketing analytics,emory university,intermediate,27000.0,marketing
+32,foundations of positive psychology,university of pennsylvania,beginner,89000.0,other
+521,foundations of public health practice,imperial college london,beginner,3200.0,health
+203,from data to insights with google cloud platform,google cloud,beginner,26000.0,data
+698,from the big bang to dark energy,the university of tokyo,beginner,52000.0,other
+863,frontend web development with react,the hong kong university of science and technology,intermediate,45000.0,development
+501,frontend web ui frameworks and tools bootstrap ,the hong kong university of science and technology,intermediate,89000.0,other
+108,full stack web and multiplatform mobile app development,the hong kong university of science and technology,intermediate,150000.0,development
+89,fullstack web development with react,the hong kong university of science and technology,intermediate,140000.0,development
+790,functional programming principles in scala,cole polytechnique fdrale de lausanne,intermediate,170000.0,programming
+150,functional programming in scala,cole polytechnique fdrale de lausanne,intermediate,220000.0,programming
+441,fundamental neuroscience for neuroimaging,johns hopkins university,beginner,30000.0,science
+295,fundamentals of accounting,university of illinois at urbanachampaign,beginner,39000.0,other
+164,fundamentals of computing,rice university,beginner,200000.0,other
+581,fundamentals of engineering exam review,georgia institute of technology,mixed,49000.0,engineering
+425,fundamentals of gis,university of california davis,beginner,86000.0,other
+162,fundamentals of graphic design,california institute of the arts,beginner,290000.0,design
+130,fundamentals of immunology,rice university,intermediate,20000.0,other
+415,fundamentals of immunology innate immunity and bcell function,rice university,intermediate,18000.0,other
+633,fundamentals of music theory,the university of edinburgh,beginner,180000.0,other
+77,fundamentals of project planning and management,university of virginia,beginner,120000.0,management
+165,fundamentals of quantitative modeling,university of pennsylvania,mixed,110000.0,other
+475,fundamentals of reinforcement learning,university of alberta,intermediate,22000.0,other
+520,fundamentals of visualization with tableau,university of california davis,beginner,81000.0,other
+742,fundamentos empresariales,university of pennsylvania,beginner,25000.0,other
+857,fundamentos estratgicos empresariales,universidad nacional autnoma de mxico,beginner,56000.0,other
+724,fundamentos de excel para negocios,universidad austral,beginner,150000.0,other
+388,fundamentos de finanzas empresariales,universidad de los andes,beginner,110000.0,other
+705,fundamentos de la escritura,tecnolgico de monterrey,beginner,47000.0,other
+370,fundraising and development,university of california davis,beginner,4900.0,development
+145,futures thinking,institute for the future,beginner,9400.0,other
+115,g suite administration,google cloud,beginner,10000.0,other
+286,gis mapping and spatial analysis,university of toronto,beginner,140000.0,analysis
+206,game design and development,michigan state university,intermediate,100000.0,design
+141,game theory,stanford university,beginner,260000.0,other
+268,gamification,university of pennsylvania,mixed,110000.0,other
+802,gender and sexuality diversity and inclusion in the workplace,university of pittsburgh,beginner,14000.0,other
+76,genomic data science,johns hopkins university,intermediate,80000.0,data
+79,geographic information systems  gis,university of california davis,beginner,97000.0,other
+694,geopolitics of europe,sciences po,mixed,19000.0,other
+567,geopoltica y gobernanza global riesgos y oportunidades,esade business and law school,mixed,34000.0,other
+650,gestin de organizaciones efectivas,pontificia universidad catlica de chile,mixed,47000.0,other
+540,get interactive practical teaching with technology,bloomsbury learning exchange,beginner,14000.0,other
+681,getting started with music theory,michigan state university,beginner,59000.0,other
+568,getting started with aws machine learning,amazon web services,intermediate,73000.0,machine
+734,getting started with go,university of california irvine,intermediate,59000.0,other
+422,getting started with google kubernetes engine,google cloud,intermediate,75000.0,other
+411,getting started with google sheets,google cloud,beginner,18000.0,other
+538,getting started with sas programming,sas,beginner,22000.0,programming
+192,global diplomacy  diplomacy in the modern world,soas university of london,mixed,79000.0,other
+400,global diplomacy the united nations in the world,soas university of london,beginner,29000.0,other
+643,global energy and climate policy,soas university of london,beginner,10000.0,other
+578,global environmental management,technical university of denmark dtu,intermediate,22000.0,management
+835,global financial markets and instruments,rice university,mixed,37000.0,financial
+761,global financing solutions  by edhec and socit gnrale,edhec business school,intermediate,3600.0,other
+740,global trends for business and society,university of pennsylvania,mixed,7600.0,business
+717,globalization economic growth and stability,ie business school,intermediate,44000.0,other
+355,good with words writing and editing,university of michigan,beginner,3800.0,other
+227,google cloud platform big data and machine learning fundamentals,google cloud,intermediate,120000.0,data
+849,google cloud platform fundamentals for aws professionals,google cloud,intermediate,36000.0,cloud
+25,google it automation with python,google,beginner,93000.0,python
+4,google it support,google,beginner,350000.0,other
+385,grammar and punctuation,university of california irvine,mixed,430000.0,other
+513,graphic design elements for nondesigners,university of colorado boulder,beginner,10000.0,design
+287,greek and roman mythology,university of pennsylvania,mixed,260000.0,other
+369,greening the economy sustainable cities,lund university,beginner,56000.0,ai
+757,guitar for beginners,berklee college of music,mixed,210000.0,other
+710,gut check exploring your microbiome,university of california san diego,mixed,62000.0,other
+329,html css and javascript for web developers,johns hopkins university,mixed,240000.0,other
+231,habilidades gerenciales,universidad nacional autnoma de mxico,beginner,43000.0,other
+785,hacia una prctica constructivista en el aula,pontificia universidad catlica de chile,mixed,62000.0,other
+803,hardware description languages for fpga design,university of colorado boulder,intermediate,7400.0,design
+429,healing with the arts,university of florida,mixed,39000.0,other
+244,health informatics,johns hopkins university,beginner,8100.0,health
+739,health information literacy for data analytics,university of california davis,intermediate,5400.0,data
+373,healthcare law,university of pennsylvania,intermediate,1700.0,health
+423,healthcare marketplace,university of minnesota,beginner,36000.0,health
+596,healthcare organization operations,rutgers the state university of new jersey,beginner,5500.0,health
+845,high performance collaboration leadership teamwork and negotiation,northwestern university,mixed,46000.0,leadership
+700,homeland security and cybersecurity,university of colorado system,beginner,5500.0,other
+177,hotel management distribution revenue and demand management,essec business school,beginner,28000.0,management
+554,how things work an introduction to physics,university of virginia,intermediate,170000.0,other
+767,how to create a website in a weekend projectcentered course,the state university of new york,mixed,140000.0,other
+609,how to start your own business,michigan state university,beginner,34000.0,business
+52,human resource management hr for people managers,university of minnesota,beginner,98000.0,management
+34,ibm ai engineering,ibm,intermediate,140000.0,engineering
+571,ibm ai enterprise workflow,ibm,advanced,3500.0,ai
+12,ibm applied ai,ibm,beginner,220000.0,ai
+408,ibm customer engagement specialist professional certificate,ibm,beginner,3300.0,other
+0,ibm data science,ibm,beginner,480000.0,data
+98,it fundamentals for cybersecurity,ibm,beginner,35000.0,other
+476,it security defense against the digital dark arts,google,beginner,62000.0,digital
+856,identifying monitoring and analyzing risk and incident response and recovery,isc,beginner,1700.0,other
+562,implementacin del marketing mix,ie business school,beginner,23000.0,marketing
+640,implementing rpa with cognitive automation and analytics,automation anywhere,beginner,2200.0,analytics
+36,improve your english communication skills,georgia institute of technology,beginner,610000.0,english
+123,improving deep neural networks hyperparameter tuning regularization and optimization,deeplearningai,beginner,270000.0,other
+748,improving leadership  governance in nonprofit organizations,luther college at the university of regina,beginner,18000.0,leadership
+318,in the studio postwar abstract painting,the museum of modern art,beginner,79000.0,ai
+110,indigenous canada,university of alberta,mixed,51000.0,other
+572,industrial iot on google cloud platform,google cloud,beginner,34000.0,cloud
+401,infectious disease modelling,imperial college london,intermediate,1600.0,other
+805,influencer marketing strategy,rutgers the state university of new jersey,intermediate,12000.0,marketing
+224,influencing storytelling change management and governance,macquarie university,beginner,22000.0,management
+549,information security context and introduction,royal holloway university of london,beginner,32000.0,other
+537,information visualization,new york university,beginner,10000.0,other
+485,information systems,university of minnesota,beginner,16000.0,other
+169,initiating and planning projects,university of california irvine,mixed,180000.0,other
+365,innovation management,erasmus university rotterdam,beginner,40000.0,management
+747,innovation through design think make break repeat,the university of sydney,beginner,10000.0,design
+673,innovation from creativity to entrepreneurship,university of illinois at urbanachampaign,beginner,25000.0,other
+219,inspirational leadership leading with sense,hec paris,beginner,72000.0,leadership
+184,inspired leadership,case western reserve university,intermediate,97000.0,leadership
+443,inspiring and motivating individuals,university of michigan,mixed,85000.0,other
+345,instructional design foundations and applications,university of illinois at urbanachampaign,mixed,12000.0,design
+837,instructional methods in health professions education,university of michigan,intermediate,9700.0,health
+171,integrative health and medicine,university of minnesota,beginner,14000.0,health
+120,intellectual property law,university of pennsylvania,intermediate,8700.0,law
+128,interaction design,university of california san diego,intermediate,150000.0,design
+762,intercultural management,escp business school,beginner,6500.0,management
+451,international business essentials,university of london,intermediate,22000.0,business
+701,international cyber conflicts,the state university of new york,mixed,25000.0,other
+404,international humanitarian law in theory and practice,kalshovengieskes forum,beginner,22000.0,law
+579,international law in action a guide to the international courts and tribunals in the hague,universiteit leiden,mixed,36000.0,law
+280,international law in action the arbitration of international disputes,universiteit leiden,mixed,19000.0,law
+228,international leadership and organizational behavior,universit bocconi,mixed,41000.0,leadership
+615,international marketing  cross industry growth,yonsei university,beginner,26000.0,marketing
+346,international organizations management,university of geneva,beginner,20000.0,management
+447,international security management,erasmus university rotterdam,beginner,2200.0,management
+193,international womens health and human rights,stanford university,beginner,35000.0,health
+593,international migrations a global issue,sciences po,beginner,11000.0,other
+667,internet connection how to get online,cisco,beginner,36000.0,other
+834,internet giants the law and economics of media platforms,the university of chicago,mixed,38000.0,law
+582,interviewing and resume writing in english,university of maryland college park,intermediate,66000.0,english
+495,introduccin a data science programacin estadstica con r,universidad nacional autnoma de mxico,beginner,140000.0,data
+327,introduccin a la programacin en python i aprendiendo a programar con python,pontificia universidad catlica de chile,beginner,100000.0,python
+844,introduction aux droits de lhomme,university of geneva,mixed,46000.0,other
+830,introduction to ableton live,berklee college of music,mixed,60000.0,other
+427,introduction to artificial intelligence ai,ibm,beginner,44000.0,ai
+862,introduction to big data,university of california san diego,mixed,160000.0,data
+608,introduction to blockchain technologies,insead,beginner,16000.0,ai
+620,introduction to breast cancer,yale university,mixed,27000.0,other
+713,introduction to business analytics communicating with data,university of illinois at urbanachampaign,intermediate,14000.0,data
+664,introduction to css,university of michigan,mixed,84000.0,other
+412,introduction to calculus,the university of sydney,intermediate,53000.0,other
+879,introduction to chemistry  reactions and ratios,duke university,beginner,46000.0,other
+421,introduction to classical music,yale university,mixed,150000.0,other
+594,introduction to cloud computing,ibm,beginner,2600.0,cloud
+780,introduction to computer programming,goldsmiths university of london,beginner,20000.0,programming
+254,introduction to computer science and programming,goldsmiths university of london,beginner,32000.0,science
+336,introduction to corporate finance,university of pennsylvania,mixed,130000.0,finance
+723,introduction to cyber attacks,new york university,beginner,27000.0,other
+183,introduction to cyber security,new york university,beginner,32000.0,other
+469,introduction to cybersecurity tools  cyber attacks,ibm,beginner,30000.0,other
+548,introduction to data analysis using excel,rice university,mixed,99000.0,data
+1,introduction to data science,ibm,beginner,310000.0,data
+187,introduction to data science in python,university of michigan,intermediate,390000.0,data
+253,introduction to dental medicine,university of pennsylvania,beginner,25000.0,other
+196,introduction to discrete mathematics for computer science,national research university higher school of economics,beginner,75000.0,science
+745,introduction to electronics,georgia institute of technology,mixed,110000.0,other
+649,introduction to embedded systems software and development environments,university of colorado boulder,intermediate,41000.0,development
+628,introduction to engineering mechanics,georgia institute of technology,mixed,150000.0,engineering
+511,introduction to environmental law and policy,the university of north carolina at chapel hill,mixed,34000.0,law
+204,introduction to financial accounting,university of pennsylvania,mixed,200000.0,financial
+377,introduction to forensic science,nanyang technological university singapore,mixed,47000.0,science
+850,introduction to game development,michigan state university,mixed,79000.0,development
+499,introduction to genetics and evolution,duke university,mixed,74000.0,other
+878,introduction to genomic technologies,johns hopkins university,mixed,42000.0,other
+307,introduction to html,university of michigan,mixed,220000.0,other
+774,introduction to imagemaking,california institute of the arts,beginner,54000.0,other
+689,introduction to intellectual property,university of pennsylvania,beginner,6000.0,other
+417,introduction to international criminal law,case western reserve university,mixed,82000.0,law
+136,introduction to marketing,university of pennsylvania,mixed,220000.0,marketing
+340,introduction to mathematical thinking,stanford university,intermediate,270000.0,other
+533,introduction to operations management,university of pennsylvania,mixed,87000.0,management
+542,introduction to personal branding,university of virginia,beginner,140000.0,other
+235,introduction to philosophy,the university of edinburgh,mixed,370000.0,other
+617,introduction to portfolio construction and analysis with python,edhec business school,mixed,11000.0,python
+473,introduction to probability and data,duke university,beginner,160000.0,data
+190,introduction to programming in c,duke university,beginner,82000.0,programming
+308,introduction to programming with matlab,vanderbilt university,beginner,270000.0,programming
+29,introduction to psychology,yale university,beginner,270000.0,other
+293,introduction to scripting in python,rice university,beginner,49000.0,python
+729,introduction to selfdriving cars,university of toronto,advanced,39000.0,other
+339,introduction to spreadsheets and models,university of pennsylvania,mixed,76000.0,other
+766,introduction to statistics  data analysis in public health,imperial college london,beginner,12000.0,data
+312,introduction to sustainability,university of illinois at urbanachampaign,mixed,69000.0,ai
+250,introduction to systematic review and metaanalysis,johns hopkins university,mixed,67000.0,analysis
+758,introduction to systems engineering,unsw sydney the university of new south wales,mixed,33000.0,engineering
+230,introduction to tensorflow for artificial intelligence machine learning and deep learning,deeplearningai,intermediate,150000.0,machine
+735,introduction to thermodynamics transferring energy from here to there,university of michigan,beginner,4100.0,other
+659,introduction to trading machine learning  gcp,new york institute of finance,intermediate,13000.0,machine
+557,introduction to typography,california institute of the arts,beginner,72000.0,other
+428,introduction to user experience design,georgia institute of technology,beginner,87000.0,design
+744,introduction to user experience principles and processes,university of michigan,beginner,16000.0,other
+625,introduction to web development,university of california davis,beginner,76000.0,development
+194,introduction to the biology of cancer,johns hopkins university,beginner,110000.0,other
+270,introductory human physiology,duke university,mixed,270000.0,other
+741,introduo aos princpios e prticas da gesto de projetos,universidade de so paulo,beginner,4500.0,other
+866,introduo  cincia da computao com python parte ,universidade de so paulo,beginner,120000.0,python
+80,investment management,university of geneva,beginner,99000.0,management
+147,investment management with python and machine learning,edhec business school,beginner,14000.0,management
+195,investment and portfolio management,rice university,beginner,49000.0,management
+639,japanese for beginners ,saint petersburg state university,beginner,4400.0,other
+45,java programming and software engineering fundamentals,duke university,beginner,380000.0,programming
+518,java programming solving problems with software,duke university,beginner,160000.0,programming
+586,julia scientific programming,university of cape town,beginner,22000.0,programming
+546,kotlin for java developers,jetbrains,intermediate,37000.0,other
+516,lexcellence oprationnelle en pratique,essec business school,beginner,8000.0,other
+750,limpact investing la finance qui change le monde,essec business school,beginner,6300.0,finance
+654,leadership development for engineers,rice university,beginner,17000.0,development
+577,leadership in st century organizations,copenhagen business school,mixed,34000.0,leadership
+656,leading healthcare quality and safety,the george washington university,beginner,16000.0,health
+61,leading people and teams,university of michigan,beginner,220000.0,other
+755,leading for equity diversity and inclusion in higher education,university of michigan,intermediate,5900.0,other
+433,leading human resource management and leadership,macquarie university,intermediate,16000.0,management
+155,learn chinese hsk test preparation,peking university,beginner,43000.0,other
+786,learn english,tsinghua university,beginner,22000.0,english
+394,learn english advanced academic speaking and listening,university of california irvine,intermediate,78000.0,english
+271,learn english advanced grammar and punctuation,university of california irvine,advanced,52000.0,english
+172,learn english intermediate grammar,university of california irvine,intermediate,120000.0,english
+360,learn mandarin chinese,shanghai jiao tong university,beginner,39000.0,other
+74,learn sql basics for data science,university of california davis,beginner,160000.0,data
+112,learn spanish basic spanish vocabulary,university of california davis,beginner,80000.0,other
+260,learn to program the fundamentals,university of toronto,beginner,180000.0,other
+311,learn to speak korean ,yonsei university,beginner,120000.0,other
+90,learning to teach online,unsw sydney the university of new south wales,beginner,68000.0,other
+839,legal tech  startups,ie business school,intermediate,7200.0,other
+541,les fondamentaux de la ngociation,essec business school,beginner,10000.0,other
+699,liderazgo efectivo para el siglo xxi,universidad de los andes,intermediate,23000.0,other
+843,linear circuits  dc analysis,georgia institute of technology,mixed,29000.0,analysis
+769,love as a force for social justice,stanford university,beginner,14000.0,social
+181,machine learning,university of washington,intermediate,290000.0,machine
+6,machine learning,stanford university,mixed,3200000.0,machine
+831,machine learning foundations a case study approach,university of washington,mixed,240000.0,machine
+352,machine learning and reinforcement learning in finance,new york university,intermediate,29000.0,machine
+585,machine learning for all,university of london,beginner,19000.0,machine
+264,machine learning for business professionals,google cloud,intermediate,58000.0,business
+178,machine learning for trading,google cloud,intermediate,15000.0,machine
+321,machine learning with python,ibm,intermediate,120000.0,python
+125,machine learning with tensorflow on google cloud platform,google cloud,intermediate,72000.0,cloud
+791,magic in the middle ages,universitat de barcelona,beginner,78000.0,other
+435,making architecture,ie school of architecture  design,beginner,43000.0,other
+73,management of fashion and luxury companies,universit bocconi,mixed,120000.0,management
+467,managerial accounting fundamentals,university of virginia,beginner,11000.0,other
+409,managerial economics and business analysis,university of illinois at urbanachampaign,beginner,55000.0,business
+91,managing innovation and design thinking,hec paris,beginner,23000.0,design
+556,managing project risks and changes,university of california irvine,mixed,71000.0,other
+558,managing social and human capital,university of pennsylvania,beginner,27000.0,social
+796,managing your health the role of physical therapy and exercise,university of toronto,beginner,47000.0,health
+380,market research,university of california davis,beginner,22000.0,other
+241,marketing digital,universidade de so paulo,beginner,81000.0,marketing
+325,marketing digital,universidad austral,beginner,39000.0,marketing
+449,marketing gerencial,universidad de chile,intermediate,49000.0,marketing
+140,marketing mix implementation,ie business school,beginner,93000.0,marketing
+211,marketing strategy,ie business school,beginner,57000.0,marketing
+669,marketing verde,universidad de los andes,mixed,58000.0,marketing
+367,marketing con redes sociales,tecnolgico de monterrey,intermediate,60000.0,marketing
+310,marketing in a digital world,university of illinois at urbanachampaign,beginner,310000.0,marketing
+550,mastering data analysis in excel,duke university,mixed,280000.0,data
+575,mastering final cut pro,learnquest,beginner,8400.0,other
+563,mastering software development in r,johns hopkins university,beginner,52000.0,development
+840,materials science  things every engineer should know,university of california davis,mixed,48000.0,science
+480,mathematics for data science,national research university higher school of economics,beginner,12000.0,data
+55,mathematics for machine learning,imperial college london,beginner,150000.0,machine
+223,mathematics for machine learning linear algebra,imperial college london,beginner,140000.0,machine
+528,mathematics for machine learning multivariate calculus,imperial college london,beginner,51000.0,machine
+873,mathematics for machine learning pca,imperial college london,intermediate,33000.0,machine
+335,medical cannabis the health effects of thc and cbd,university of colorado boulder,beginner,4800.0,health
+214,medical neuroscience,duke university,advanced,170000.0,science
+258,memoir and personal essay write about yourself,wesleyan university,beginner,13000.0,other
+87,methods and statistics in social sciences,university of amsterdam,beginner,260000.0,science
+489,microeconomics principles,university of illinois at urbanachampaign,beginner,73000.0,other
+464,microeconomics the power of markets,university of pennsylvania,mixed,34000.0,other
+470,mindshift break through obstacles to learning and discover your hidden potential,mcmaster university,beginner,230000.0,other
+517,miracles of human language an introduction to linguistics,universiteit leiden,beginner,120000.0,other
+505,model thinking,university of michigan,mixed,130000.0,other
+706,modeling risk and realities,university of pennsylvania,mixed,36000.0,other
+101,modern art  ideas,the museum of modern art,beginner,310000.0,other
+296,modern big data analysis with sql,cloudera,beginner,14000.0,data
+333,modern robotics  mechanics planning and control,northwestern university,intermediate,21000.0,other
+523,modernizing data lakes and data warehouses with gcp,google cloud,intermediate,9100.0,data
+176,moral foundations of politics,yale university,mixed,100000.0,other
+481,more introduction to financial accounting,university of pennsylvania,mixed,40000.0,financial
+652,mountains ,university of alberta,mixed,44000.0,ai
+597,municipal solid waste management in developing countries,cole polytechnique fdrale de lausanne,intermediate,59000.0,management
+188,music business,berklee college of music,beginner,42000.0,business
+784,music business foundations,berklee college of music,mixed,34000.0,business
+94,music production,berklee college of music,beginner,70000.0,other
+685,nanotechnology a makers course,duke university,mixed,21000.0,other
+431,natural language processing in tensorflow,deeplearningai,intermediate,40000.0,other
+341,negociacin exitosa estrategias y habilidades esenciales en espaol,university of michigan,mixed,95000.0,other
+226,negotiation mediation and conflict resolution,essec business school,beginner,22000.0,other
+842,networking and security architecture with vmware nsx,vmware,intermediate,17000.0,other
+20,networking in google cloud,google cloud,intermediate,290000.0,cloud
+62,neural networks and deep learning,deeplearningai,intermediate,630000.0,other
+471,neurolinguistics,saint petersburg state university,mixed,41000.0,other
+795,new approaches to countering terror countering violent extremism,university of maryland college park,beginner,12000.0,other
+343,newborn baby care,university of colorado system,beginner,5300.0,other
+252,nutricin y obesidad control de sobrepeso,universidad nacional autnoma de mxico,beginner,100000.0,other
+535,nutrition and lifestyle in pregnancy,ludwigmaximiliansuniversitt mnchen lmu,intermediate,35000.0,other
+255,object oriented java programming data structures and beyond,university of california san diego,intermediate,250000.0,data
+86,object oriented programming in java,duke university,beginner,330000.0,programming
+510,objectoriented data structures in c,university of illinois at urbanachampaign,intermediate,21000.0,data
+887,objectoriented design,university of alberta,intermediate,33000.0,design
+323,oil  gas industry operations and markets,duke university,mixed,57000.0,other
+416,open source software development linux and git,the linux foundation,beginner,13000.0,development
+316,operating systems and you becoming a power user,google,beginner,76000.0,other
+398,operations analytics,university of pennsylvania,mixed,80000.0,analytics
+472,optical engineering,university of colorado boulder,advanced,6200.0,engineering
+116,organizational leadership,northwestern university,intermediate,92000.0,leadership
+867,osteoarchaeology the truth in our bones,universiteit leiden,beginner,22000.0,other
+765,palliative care its not just hospice anymore,university of colorado system,beginner,3200.0,other
+526,palo alto networks cybersecurity,palo alto networks,beginner,9100.0,other
+445,parallel concurrent and distributed programming in java,rice university,intermediate,30000.0,programming
+872,particle physics an introduction,university of geneva,mixed,42000.0,other
+309,patient safety,johns hopkins university,beginner,8800.0,other
+810,patrocinio deportivo,universitat autnoma de barcelona,beginner,12000.0,other
+362,people analytics,university of pennsylvania,mixed,84000.0,analytics
+665,perfect tenses and modals,university of california irvine,intermediate,79000.0,other
+668,periodismo digital y combate a las fake news,universidad nacional autnoma de mxico,beginner,8900.0,digital
+105,photography basics and beyond from smartphone to dslr,michigan state university,beginner,160000.0,other
+503,plant bioinformatic methods,university of toronto,beginner,83000.0,other
+477,politics and economics of international energy,sciences po,beginner,34000.0,other
+216,positive psychiatry and mental health,the university of sydney,mixed,72000.0,health
+291,positive psychology,the university of north carolina at chapel hill,mixed,180000.0,other
+606,positive psychology applications and interventions,university of pennsylvania,beginner,23000.0,other
+240,positive psychology martin e p seligmans visionary science,university of pennsylvania,beginner,50000.0,science
+646,positive psychology resilience skills,university of pennsylvania,beginner,40000.0,other
+348,power electronics,university of colorado boulder,intermediate,67000.0,other
+320,practical data science with matlab,mathworks,beginner,10000.0,data
+692,practical time series analysis,the state university of new york,intermediate,39000.0,analysis
+808,preparing for the google cloud associate cloud engineer exam,google cloud,beginner,22000.0,cloud
+389,preparing to manage human resources,university of minnesota,mixed,68000.0,other
+299,presentation skills speechwriting slides and delivery,elearning development fund,beginner,47000.0,other
+215,pricing strategy optimization,bcg,beginner,20000.0,strategy
+57,primeros auxilios psicolgicos pap,universitat autnoma de barcelona,mixed,280000.0,other
+114,private equity and venture capital,universit bocconi,mixed,79000.0,other
+683,probabilistic graphical models  representation,stanford university,advanced,68000.0,other
+715,probability and statistics to p or not to p,university of london,beginner,36000.0,statistics
+626,process mining data science in action,eindhoven university of technology,intermediate,39000.0,data
+364,programming foundations with javascript html and css,duke university,beginner,250000.0,programming
+732,programming fundamentals,duke university,beginner,19000.0,programming
+47,programming for everybody getting started with python,university of michigan,mixed,1300000.0,python
+208,programming with google go,university of california irvine,intermediate,18000.0,programming
+731,project execution,university of california irvine,beginner,70000.0,other
+284,project launch,university of california irvine,beginner,190000.0,other
+31,project management  other tools for career development,university of california irvine,beginner,440000.0,management
+30,project management principles and practices,university of california irvine,beginner,230000.0,management
+37,psychological first aid,johns hopkins university,mixed,190000.0,ai
+424,public policy challenges of the st century,university of virginia,beginner,52000.0,other
+279,python basics,university of michigan,beginner,110000.0,python
+869,python classes and inheritance,university of michigan,intermediate,21000.0,python
+111,python data structures,university of michigan,mixed,420000.0,data
+555,python functions files and dictionaries,university of michigan,beginner,26000.0,python
+374,python and statistics for financial analysis,the hong kong university of science and technology,intermediate,41000.0,python
+152,python for data science and ai,ibm,beginner,170000.0,data
+3,python for everybody,university of michigan,beginner,1500000.0,python
+823,quantitative methods,university of amsterdam,mixed,69000.0,other
+827,queering identities lgbtq sexuality and gender identity,university of colorado system,beginner,3000.0,other
+317,r programming,johns hopkins university,intermediate,480000.0,programming
+771,ready set future introduction to futures thinking,institute for the future,beginner,7700.0,other
+553,recommender systems,university of minnesota,intermediate,29000.0,other
+658,recruiting hiring and onboarding employees,university of minnesota,mixed,35000.0,other
+82,reinforcement learning,university of alberta,intermediate,23000.0,other
+532,renewable energy and green building entrepreneurship,duke university,beginner,24000.0,other
+634,reporting extrafinancier et stratgie rse,essec business school,beginner,5200.0,other
+868,requirements engineering secure software  specifications,university of colorado system,beginner,7200.0,engineering
+876,research data management and sharing,the university of edinburgh,mixed,16000.0,data
+622,resilience in children exposed to trauma disaster and war global perspectives,university of minnesota,mixed,15000.0,other
+289,responsive website development and design,goldsmiths university of london,beginner,170000.0,design
+414,rethinking international tax law,universiteit leiden,mixed,36000.0,law
+386,reviso sistemtica e metaanlise,universidade estadual de campinas,intermediate,17000.0,other
+315,robotics,university of pennsylvania,beginner,120000.0,other
+632,roman architecture,yale university,beginner,30000.0,other
+833,russian alphabet,saint petersburg state university,beginner,3200.0,other
+180,russian for beginners    a,saint petersburg state university,beginner,7000.0,other
+331,russir le changement,essec business school,mixed,33000.0,other
+160,sas programmer,sas,beginner,370000.0,other
+393,sas visual business analytics,sas,beginner,2600.0,business
+332,sql for data science,university of california davis,beginner,160000.0,data
+601,sales operationsmanagement,west virginia university,beginner,5600.0,management
+781,sales training for high performing teams,hubspot academy,beginner,16000.0,ai
+763,samplebased learning methods,university of alberta,intermediate,6800.0,other
+860,scaling operations linking strategy and execution,northwestern university,mixed,12000.0,strategy
+368,school health for children and adolescents,university of colorado system,beginner,9100.0,health
+121,science of exercise,university of colorado boulder,beginner,140000.0,science
+629,search engine optimization fundamentals,university of california davis,mixed,47000.0,other
+836,secure coding practices,university of california davis,intermediate,6400.0,other
+712,security  safety challenges in a globalized world,universiteit leiden,beginner,14000.0,other
+19,security in google cloud platform,google cloud,intermediate,300000.0,cloud
+154,selfdriving cars,university of toronto,advanced,39000.0,other
+285,sequence models,deeplearningai,intermediate,14000.0,other
+772,sexualidadmucho ms que sexo,universidad de los andes,beginner,110000.0,other
+695,sharpened visions a poetry workshop,california institute of the arts,beginner,61000.0,other
+304,site reliability engineering measuring and managing reliability,google cloud,advanced,16000.0,engineering
+167,six sigma green belt,university system of georgia,intermediate,18000.0,other
+792,six sigma and the organization advanced,university system of georgia,intermediate,15000.0,other
+814,sleep neurobiology medicine and society,university of michigan,beginner,20000.0,other
+660,smart cities  management of smart urban infrastructures,cole polytechnique fdrale de lausanne,beginner,22000.0,management
+817,social entrepreneurship,copenhagen business school,beginner,13000.0,social
+49,social media marketing,northwestern university,beginner,130000.0,marketing
+440,social norms social change i,university of pennsylvania,beginner,78000.0,social
+574,social policy for social services  health practitioners,columbia university,beginner,4200.0,health
+83,social psychology,wesleyan university,beginner,220000.0,social
+506,social and economic networks  models and analysis,stanford university,advanced,42000.0,analysis
+186,software design and architecture,university of alberta,beginner,60000.0,design
+402,software development lifecycle,university of minnesota,intermediate,34000.0,development
+859,software processes and agile practices,university of alberta,mixed,60000.0,other
+64,software product management,university of alberta,beginner,110000.0,management
+515,solar energy basics,the state university of new york,beginner,17000.0,other
+600,songwriting writing the lyrics,berklee college of music,beginner,68000.0,other
+363,soporte de tecnologas de la informacin de google,crece con google,beginner,8800.0,other
+754,spacecraft dynamics and control,university of colorado boulder,advanced,12000.0,other
+504,spanish vocabulary meeting people,university of california davis,beginner,71000.0,other
+334,speak english professionally in person online  on the phone,georgia institute of technology,mixed,430000.0,english
+200,sports marketing,northwestern university,intermediate,12000.0,marketing
+580,sports and society,duke university,mixed,16000.0,other
+68,stanford introduction to food and health,stanford university,beginner,370000.0,health
+680,stanfords short course on breastfeeding,stanford university,beginner,17000.0,other
+170,statistical analysis with r for public health,imperial college london,beginner,16000.0,health
+127,statistics with python,university of michigan,beginner,34000.0,python
+84,statistics with r,duke university,beginner,220000.0,statistics
+657,stories of infection,stanford university,intermediate,28000.0,other
+648,strategic business analytics,essec business school,advanced,60000.0,business
+822,strategic business management  microeconomics,university of california irvine,beginner,9500.0,management
+93,strategic leadership and management,university of illinois at urbanachampaign,beginner,100000.0,management
+801,strategic management,copenhagen business school,mixed,58000.0,management
+202,strategic management and innovation,copenhagen business school,beginner,68000.0,management
+592,strategic sales management,fundao instituto de administrao,intermediate,9200.0,management
+798,strategising management for global competitive advantage,macquarie university,intermediate,30000.0,management
+749,strategy and sustainability,iese business school,beginner,11000.0,strategy
+189,structuring machine learning projects,deeplearningai,beginner,220000.0,machine
+455,success,university of pennsylvania,beginner,38000.0,other
+40,successful negotiation essential strategies and skills,university of michigan,mixed,750000.0,other
+588,summary statistics in public health,johns hopkins university,beginner,11000.0,health
+483,supply chain analytics,rutgers the state university of new jersey,beginner,7900.0,analytics
+432,supply chain finance and blockchain technology,new york institute of finance,intermediate,4900.0,finance
+384,supply chain logistics,rutgers the state university of new jersey,beginner,66000.0,ai
+50,supply chain management,rutgers the state university of new jersey,beginner,82000.0,management
+760,supply chain operations,rutgers the state university of new jersey,beginner,24000.0,ai
+306,supply chain principles,georgia institute of technology,mixed,29000.0,ai
+328,supporting children with difficulties in reading and writing,ucl institute of education,mixed,50000.0,other
+344,survey data collection and analytics,university of maryland college park,beginner,45000.0,data
+583,sustainable tourism  promoting environmental public health,university of copenhagen,beginner,9400.0,health
+387,swift  ios application developer,learnquest,beginner,3900.0,other
+403,system administration and it infrastructure services,google,beginner,62000.0,other
+484,systems biology and biotechnology,icahn school of medicine at mount sinai,intermediate,48000.0,other
+647,systems thinking in public health,johns hopkins university,mixed,33000.0,health
+67,tesol certificate part  teach english now,arizona state university,beginner,100000.0,english
+234,tesol certificate part  teach english now,arizona state university,beginner,62000.0,english
+559,teach english now foundational principles,arizona state university,mixed,81000.0,english
+807,teach english now teaching language online,arizona state university,intermediate,8500.0,english
+788,teaching character and creating positive classrooms,relay graduate school of education,mixed,53000.0,other
+466,teamwork skills communicating effectively in groups,university of colorado boulder,beginner,49000.0,other
+41,technical support fundamentals,google,beginner,280000.0,other
+27,tensorflow in practice,deeplearningai,intermediate,170000.0,other
+217,tensorflow data and deployment,deeplearningai,intermediate,12000.0,data
+298,terrorism and counterterrorism comparing theory and practice,universiteit leiden,beginner,90000.0,other
+460,the addicted brain,emory university,beginner,130000.0,ai
+507,the art of music production,berklee college of music,intermediate,47000.0,other
+133,the art of sales mastering the selling process,northwestern university,beginner,23000.0,other
+375,the arts and science of relationships understanding human needs,university of toronto,beginner,73000.0,science
+135,the bits and bytes of computer networking,google,beginner,130000.0,other
+65,the business of health care,university of pennsylvania,beginner,22000.0,business
+97,the business of music production,berklee college of music,beginner,84000.0,business
+768,the changing global order,universiteit leiden,intermediate,23000.0,other
+759,the cycle management of successful arts and cultural organizations,university of maryland college park,beginner,11000.0,management
+81,the diy musician,berklee college of music,beginner,120000.0,other
+243,the data scientists toolbox,johns hopkins university,mixed,420000.0,data
+864,the economics of health care delivery,university of pennsylvania,mixed,7200.0,health
+274,the global financial crisis,yale university,mixed,84000.0,financial
+587,the horse course introduction to basic care and management,university of florida,mixed,29000.0,management
+282,the managers toolkit a practical guide to managing people at work,birkbeck university of london,mixed,47000.0,other
+357,the modern world part one global history from  to ,university of virginia,beginner,130000.0,other
+671,the modern world part two global history since ,university of virginia,beginner,47000.0,other
+576,the oral cavity portal to health and disease,university of pennsylvania,intermediate,9400.0,health
+272,the power of macroeconomics economic principles in the real world,university of california irvine,mixed,180000.0,other
+534,the power of microeconomics economic principles in the real world,university of california irvine,mixed,120000.0,other
+826,the pronunciation of american english,university of california irvine,beginner,1700.0,english
+818,the science of gastronomy,the hong kong university of science and technology,mixed,50000.0,science
+690,the science of stem cells,american museum of natural history,intermediate,12000.0,science
+696,the science of success what researchers know that you should know,university of michigan,beginner,59000.0,science
+524,the science of training young athletes,university of florida,beginner,13000.0,science
+2,the science of wellbeing,yale university,mixed,2500000.0,science
+118,the singer songwriter,berklee college of music,beginner,320000.0,other
+677,the social context of mental health and illness,university of toronto,mixed,19000.0,health
+138,the strategy of content marketing,university of california davis,intermediate,100000.0,marketing
+361,the sustainable development goals  a global transdisciplinary vision for the future,university of copenhagen,beginner,26000.0,development
+459,the teacher and social and emotional learning sel,university of colorado boulder,beginner,5200.0,social
+666,the technology of music production,berklee college of music,beginner,28000.0,other
+616,the truth about cats and dogs,the university of edinburgh,mixed,33000.0,other
+716,the hidden value  lean in manufacturing and services,cole des ponts paristech,beginner,14000.0,other
+584,think again i how to understand arguments,duke university,beginner,200000.0,ai
+146,tools for data science,ibm,beginner,120000.0,data
+220,trading strategies in emerging markets,indian school of business,beginner,68000.0,other
+529,transmedia storytelling narrative worlds emerging technologies and global audiences,unsw sydney the university of new south wales,mixed,45000.0,other
+530,tricky american english pronunciation,university of california irvine,beginner,110000.0,english
+438,troubles du spectre de lautisme  diagnostic,university of geneva,intermediate,5400.0,other
+245,us federal taxation,university of illinois at urbanachampaign,intermediate,12000.0,other
+153,uci project management,university of california irvine,beginner,44000.0,management
+46,ui  ux design,california institute of the arts,beginner,68000.0,design
+595,ux design fundamentals,california institute of the arts,beginner,25000.0,design
+676,understanding cancer metastasis,johns hopkins university,beginner,29000.0,other
+353,understanding clinical research behind the statistics,university of cape town,mixed,78000.0,statistics
+500,understanding einstein the special theory of relativity,stanford university,beginner,89000.0,other
+173,understanding medical research your facebook friend is wrong,yale university,beginner,24000.0,other
+886,understanding modern finance,american institute of business and economics,intermediate,11000.0,finance
+746,understanding plants  part i what a plant knows,tel aviv university,beginner,49000.0,other
+261,understanding research methods,soas university of london,mixed,120000.0,other
+465,understanding and visualizing data with python,university of michigan,beginner,30000.0,data
+249,understanding the brain the neurobiology of everyday life,the university of chicago,beginner,130000.0,ai
+865,unity certified programmer exam preparation,unity,intermediate,6100.0,other
+618,unity xr how to build ar and vr apps,unity,beginner,12000.0,other
+882,university teaching,the university of hong kong,beginner,9500.0,other
+638,unraveling the cycling city,university of amsterdam,intermediate,3900.0,other
+117,user experience research and design,university of michigan,beginner,23000.0,design
+614,user interface design,university of minnesota,intermediate,43000.0,design
+350,using databases with python,university of michigan,mixed,220000.0,data
+199,using python to access web data,university of michigan,mixed,310000.0,data
+603,using python to interact with the operating system,google,beginner,19000.0,python
+262,value chain management,university of illinois at urbanachampaign,intermediate,63000.0,management
+589,version control with git,atlassian,mixed,40000.0,other
+71,viral marketing and how to craft contagious content,university of pennsylvania,mixed,150000.0,marketing
+407,virtual reality,goldsmiths university of london,beginner,37000.0,other
+297,virtual teacher,university of california irvine,beginner,23000.0,other
+185,vital signs understanding what the body is telling us,university of pennsylvania,mixed,190000.0,other
+182,web applications for everybody,university of michigan,intermediate,120000.0,other
+42,web design for everybody basics of web development  coding,university of michigan,beginner,280000.0,design
+354,weight management beyond balancing calories,emory university,beginner,34000.0,management
+144,what is contemporary art,the museum of modern art,beginner,120000.0,other
+829,what future for education,ucl institute of education,mixed,35000.0,other
+543,what is compliance,university of pennsylvania,mixed,6200.0,other
+88,what is data science,ibm,beginner,260000.0,data
+379,what is social,northwestern university,mixed,94000.0,social
+232,wine tasting sensory techniques for wine analysis,university of california davis,beginner,32000.0,analysis
+787,wonders of ancient egypt,university of pennsylvania,intermediate,17000.0,other
+619,write a feature length screenplay for film or television,michigan state university,beginner,12000.0,other
+213,write professional emails in english,georgia institute of technology,mixed,270000.0,english
+684,write your first novel,michigan state university,beginner,18000.0,other
+69,writing in the sciences,stanford university,beginner,140000.0,science
+359,elearning ecologies innovative approaches to teaching and learning for the digital age,university of illinois at urbanachampaign,mixed,17000.0,digital
+779,ios app development with swift,university of toronto,intermediate,76000.0,development
+858,qu hacen los buenos directivos prioridades de la alta direccin,iese business school,beginner,25000.0,other
+191,tudier en france french intermediate course bb,cole polytechnique,intermediate,190000.0,other
+607,xito profesional,university of california irvine,beginner,69000.0,other
+492,  ,saint petersburg state university,beginner,14000.0,other
+156,    c,elearning development fund,intermediate,68000.0,other
+722,    ,national research university higher school of economics,beginner,16000.0,other
+811,  python   ,elearning development fund,beginner,67000.0,python
+132,    ,elearning development fund,intermediate,77000.0,other
+405, digital ,national research university higher school of economics,intermediate,19000.0,digital
+703,   python,national research university higher school of economics,beginner,83000.0,python
+841,   c  ,elearning development fund,intermediate,41000.0,other
+889,  python,moscow institute of physics and technology,intermediate,45000.0,python
+236,  python,mailru group,intermediate,52000.0,python
+883, psycholinguistics,saint petersburg state university,mixed,21000.0,other
+545,    javascript,elearning development fund,intermediate,30000.0,other
+875,  ,saint petersburg state university,intermediate,9800.0,other
+163,    ,national research university higher school of economics,beginner,38000.0,other
